@@ -1,6 +1,6 @@
 This is the project of IST707 Data Analytics course (SPRING 2019 semester).
 
-The dataset used in this project is called “Bank Marketing Data Set” and can be found at UCI Machine Learning Repository. It has 45211 examples and 17 inputs. 
+The dataset used in this project is called “Bank Marketing Data Set” and can be found at UCI Machine Learning Repository.
 Target Variable is variable y, which means if the client will subscribe (yes/no) a term deposit.
 
 We propose to use **data mining algorithms** in **R** to predict if a client will subscribe (yes/no) a term deposit.
